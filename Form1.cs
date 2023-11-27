@@ -19,6 +19,8 @@ namespace Exercicio_6
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //int-é abreviação de "integer" (inteiro) e é usado para armazenar números inteiros, ou seja, números sem parte decimal. Por exemplo, 1, 10, -5 são todos inteiros.
+            //double-por outro lado, é usado para armazenar números de ponto flutuante, ou seja, números que podem ter uma parte decimal. Por exemplo, 3.14, -0.5, 2.0 são todos números de ponto flutuante.
             //Maneira errada mas da
             //int comp = int.Parse(textBox1.Text);
             //int larg = int.Parse(textBox2.Text);
