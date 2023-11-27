@@ -53,7 +53,7 @@ namespace Exercicio_6
             textBox1.Text = "";
             textBox2.Text = "";
             textBox3.Text = "";
-            listBox1.Items.Clear();
+            listBox1.Items.Clear(); 
         }
     }
 }
